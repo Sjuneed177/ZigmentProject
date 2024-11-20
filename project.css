@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+form {
+    max-width: 500px;
+    margin-bottom: 20px;
+}
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+select, input, button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+.output {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #f9f9f9;
+}
+.high-priority {
+    color: red;
+    font-weight: bold;
+}
+.nurturing {
+    color: orange;
+}
